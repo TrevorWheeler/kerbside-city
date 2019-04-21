@@ -15,7 +15,7 @@ module.exports = {
 
   loading: { color: '#fff' },
 
-  css: ['./node_modules/swiper/dist/css/swiper.css', '@/assets/normalize.css'],
+  css: ['@/assets/normalize.css'],
 
   styleResources: {
     scss: ['assets/variables.scss']
