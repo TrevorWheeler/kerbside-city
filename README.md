@@ -1,6 +1,6 @@
-# kirbside-city
+# kerbside-city
 
-> Kirbside pickup dates in Brisbane
+> Kerbside pickup dates in Brisbane
 
 ## Build Setup
 
